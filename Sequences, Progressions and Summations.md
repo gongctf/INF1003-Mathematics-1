@@ -68,14 +68,13 @@ $$
 \sum_{n=1}^{4} n = 1+ 2 + 3+4=10
 $$
 
-Example: summation of series $\frac{1}{1}$+$\frac{1}{2}$+$\frac{1}{3}$ +$\dots$+$\frac{1}{100}$
+Example: summation of series $\frac{1}{1}+\frac{1}{2}+\frac{1}{3} +\dots+\frac{1}{100}$
 
 $$
 \sum_{j=1}^{100} \frac{1}{j} = \frac{1}{1} + \frac{1}{2} + \dots + \frac{1}{100}
 $$
 
 ## Common Formulas for computing Sums
-
 ### Sum of the first n integers
 
 $$
