@@ -138,7 +138,7 @@ $$
 S_{n}=\frac{n(a_{1}+a_{n})}{2}
 $$
 
-Note: you can get the value of the last term by using [this formula](.md#Arithmetic%20Progression)
+Note: you can get the value of the last term by using [this formula](#Arithmetic%20Progression)
 
 ## Summation of Geometric Sequence
 ### Formula **(when the series has n terms, index starts from 1)**:
