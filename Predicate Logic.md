@@ -103,8 +103,8 @@ means some students have red hair
 Example:
 Py(x): x knows Python & C(x): x knows C  
 x is from the domain of all the students in our class
-- $\forall~x~Py(x)$ : All students know Python
-- $\exists ~x~Py(x)$ : There are students that know Python
+- $\forall~ x ~Py(x)$ : All students know Python
+- $\exists ~ x ~Py(x)$ : There are students that know Python
 - $\exists x(Py(x)\wedge C(x))$: There are students that know Python and C
 - $\forall x(\neg Py(x)\wedge C(x))$: No student knows Python, but all of them knows C
 
@@ -123,7 +123,7 @@ Example:
 Must find a counterexample by identifying a value of x that makes P(x) is false
 
 Example:  
-Let Q(x) be the statement "x is less than 2" What is the truth value of the quantification $\forall x Q(x)$ where U = All real numbers.
+Let Q(x) be the statement "x is less than 2". What is the truth value of the quantification $\forall x Q(x)$ where U = All real numbers?
 - Find a counterexample for value x where x > 2
 - Substitute x = 3 into the statement. The truth value is false
 - Since, there exists at least 1 real number in this case, the proposition is false.
