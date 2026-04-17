@@ -310,7 +310,7 @@ An equivalence relation *R* on an non-empty set S is a subset of the Cartesian p
 Example: "same age"  
 Consider a set of people  
 2 people are related if they have the same age. $R=\{ (a,b)|\text{a is the same age as b} \}$
-- Reflexive property: (Alice, Alice)$\in R$ 
+- Reflexive property: (Alice, Alice) $\in R$ 
 - Symmetric property: $(Alice, Bob) \in R \implies (Bob,Alice) \in R$
 - Transitive property: $(Alice,Bob)\in R \wedge (Bob,Charlie) \in R \implies(Alice,Charlie) \in R$
 Hence, R is an equivalence relation.
