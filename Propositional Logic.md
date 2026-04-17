@@ -30,7 +30,7 @@ is an operation where it connects propositions together
 A connective connecting 2 propositions will make a compound proposition/statement.  
 Example:
 - "Today is Sunday and I plan to go shopping"
-- "$a\le b \space or \space a=0$"
+- " $a\le b \space or \space a=0$ "
 
 A single proposition is called an atomic proposition.
 
@@ -67,7 +67,7 @@ This proposition is True **only when both p and q are True**.
 Notation:
 
 $$
-p \wedge q, ~ p \bullet q, ~ p\&q
+p \wedge q, ~ p \bullet q
 $$
 
 Example:
@@ -93,12 +93,14 @@ It is False **only when both p and q are False**.
 | False | False | False     |
 
 Notation:
+
 $$
 p \vee q, ~ p + q, p\setminus \setminus q
 $$
+
 Example:
-	I'll go home or watch a movie
-		Its only false when I don't plan to watch a movie or go home
+- I'll go home or watch a movie
+	- Its only false when I don't plan to watch a movie or go home
 
 ## Exclusive Disjunction (XOR)
 For 2 propositions p and q, the exclusive disjunction (xor) of p and q is denoted by $p \oplus q$.
@@ -364,6 +366,7 @@ $$
 
 ## Distributive Laws
 similar to distributive law when doing multiplication to factors
+
 $$
 p\vee(q\wedge r) \equiv (p\vee q)\wedge(p\vee r)
 $$

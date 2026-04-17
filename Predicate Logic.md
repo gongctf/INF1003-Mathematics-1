@@ -60,14 +60,14 @@ Let "x+y=z" be denoted by R(x,y,z) and U, the domain if all 3 variables is integ
 	- Therefore R(2,1,1) is False
 
 ## Compound Expressions
-Connectives from propositional logic work the same. $\wedge\& \vee$
+Connectives from propositional logic work the same. $\wedge,\vee$
 
 However, when a variable is present in a expression, the expressions are not propositions.
 
 Example:
 If P(x) denotes "x > 0", find the truth values of the following:
-- P(3)$\vee$P(-1) = $T\vee F$ = True
-- P(3)$\wedge$P(-1) = $T\wedge F$ = False
+- P(3) $\vee$ P(-1) = $T\vee F$ = True
+- P(3) $\wedge$ P(-1) = $T\wedge F$ = False
 
 # Quantifiers
 specify the scope of the variables.
@@ -103,13 +103,13 @@ means some students have red hair
 Example:
 Py(x): x knows Python & C(x): x knows C  
 x is from the domain of all the students in our class
-- $\forall~x~Py(x)$: All students know Python
-- $\exists ~x~Py(x)$: There are students that know Python
+- $\forall~x~Py(x)$ : All students know Python
+- $\exists ~x~Py(x)$ : There are students that know Python
 - $\exists x(Py(x)\wedge C(x))$: There are students that know Python and C
 - $\forall x(\neg Py(x)\wedge C(x))$: No student knows Python, but all of them knows C
 
 ## The Universal Quantifier
-U specifies the domain  
+`U` specifies the domain  
 It is important to consider the definition of the predicate and the domain when evaluating a quantified expression.  
 Example:
 - $P(x): x>0$  where U = All integers
@@ -140,7 +140,7 @@ What is the truth value of $\forall x(x^2 \ge x)$ is, if the domain consists of 
 - The statement is false
 
 ## The Existential Quantifier
-U specified the domain
+`U` specifies the domain
 
 Example:
 - $P(x): x>0$ where U = All integers
@@ -195,7 +195,7 @@ Another way to formalise:
 - where the domains of x and y are the real numbers
 
 ### Quantification of 2 variables
-![[{E8C86E7F-CD20-42CD-B423-0D167D6C6168}.png]]
+![{E8C86E7F-CD20-42CD-B423-0D167D6C6168}](attachments/{E8C86E7F-CD20-42CD-B423-0D167D6C6168}.png)
 #### Both quantifiers are universal
 Example: $\forall x\forall y((x>0)\wedge(y<0)\implies(x.y<0))$ 
 - Write this in English
