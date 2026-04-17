@@ -48,7 +48,7 @@ By the contraposition rule, we have proven that if n is an integer and 3n+2 is o
 # Trivial & Vacuous Proof
 ## Trivial proof
 If we know q is true, then $p\implies q$ is true as well.
-- ![[{D2EE38E5-0B3D-422E-A436-8B2042E49203}.png]]
+- ![{D2EE38E5-0B3D-422E-A436-8B2042E49203}](attachments/{D2EE38E5-0B3D-422E-A436-8B2042E49203}.png)
 
 Example: The statement "If I watch a movie tonight, the sun will shine tomorrow"
 - $p\implies q$
@@ -68,7 +68,7 @@ Example: "Show that for every real number x, if x>0 then x<sup>2</sup> + 2x +2 >
 
 ## Vacuous Proof
 To prove that $p\implies q$ is True, show that p is False.
-- ![[{1569592E-C421-445D-A9F8-7EBED4932C16}.png]]
+- ![{1569592E-C421-445D-A9F8-7EBED4932C16}](attachments/{1569592E-C421-445D-A9F8-7EBED4932C16}.png)
 
 Example: "Show that if $x^2 + 4x + 5 \le 0 \text{ then }x\le 0$"
 
@@ -130,10 +130,10 @@ Show that the statement is true based on the findings for each case, leaving no 
 
 Example: Prove that (n+1)<sup>3</sup> $\ge$ 3<sup>n</sup> if n is a positive integer with n $\le$ 4.
 Solution: we only have to verify the inequality for n=1;2;3 and 4
-- Case 1: For n = 1, (1+1)$^3$ = 2$^3$ = 8 > 3$^1$ = 3
-- Case 2: For n = 2, (2+1)$^3$ = 27, 27 > 3$^2$ 
-- Case 3, For n = 3, (3+1)$^3$ = 64, 64 > 3$^3$ 
-- Case 4, For n = 4, (4+1)$^3$ = 125, 125 > 3$^4$
+- Case 1: For n = 1, (1+1)<sup>3</sup> = 2<sup>3</sup> = 8 > 3<sup>1</sup> = 3
+- Case 2: For n = 2, (2+1)<sup>3</sup> = 27, 27 > 3<sup>2</sup> 
+- Case 3, For n = 3, (3+1)<sup>3</sup> = 64, 64 > 3<sup>3</sup> 
+- Case 4, For n = 4, (4+1)<sup>3</sup> = 125, 125 > 3<sup>4</sup>
 - We conclude that the statement "(n+1)<sup>3</sup> $\ge$ 3<sup>n</sup> if n is a positive integer with n $\le$ 4" is proven exhaustively.
 
 # Proof by Cases

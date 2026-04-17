@@ -1,7 +1,7 @@
 # Argument
 is a sequence of propositions/statements (True/False).
 
-![[{B903D603-F66B-46CF-85A4-045819943588}.png]]  
+![{B903D603-F66B-46CF-85A4-045819943588}](attachments/{B903D603-F66B-46CF-85A4-045819943588}.png)  
 **Premises** are statements/conditions that are assumed to be true to **imply a conclusion**.
 - Premises are propositions that we assume are True.
 **Conclusion** in a valid argument would only be true as long as all the premises really are true.
@@ -117,6 +117,7 @@ p\\
 \therefore  p\vee q
 \end{gathered}
 $$ 
+
 If we know that something is true, then the conjunction of that with anything else is also true.
 
 ## Simplification
