@@ -161,7 +161,7 @@ Example: Prove that if $\text{a and b}$ are real numbers, and $b \ne 0$ then $\f
 	- Hence |a|/|b| = (−a)/(−b) = a/b = |a/b|.
 - In all cases $\frac{|a|}{|b|} = |\frac{a}{b}|$.
 
-Example: Let's consider the statement: "For any real number x, x$^2 \ge 0$"
+Example: Let's consider the statement: "For any real number x, x<sup>2</sup> $\ge 0$ "
 - Case 1: $x\ge 0$ If we squared a positive number or zero, the result will always be positive.
 - Case 2: $x\lt 0$ If we squared a negative number, the result will always be positive.
 - These both cases cover every possible instance or object that needs to be considered, so proving the two cases shows that the statement hold for any real number.
