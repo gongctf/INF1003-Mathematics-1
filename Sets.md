@@ -8,7 +8,7 @@ A set contains specific elements.
 - Order is not important. {a,e,i,o,u}={e,u,i,a,o}
 - If 2 elements are identical, they are 1 element
 	- Listing an element **more than once** does not change the set. {a,e,i,o,u} = {a,e,a,i,o,e,u}
-- Ellipses (...) may be used to describe a set when the pattern is clear. $S=\{a,b,c,d,\dots,z\}$
+- Ellipses (...) may be used to describe a set when the pattern is clear. $S=\{ a,b,c,d,\dots,z\}$
 
 Describing set examples:
 - Need to have a precise definition
